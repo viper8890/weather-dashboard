@@ -25,7 +25,7 @@ A simple and responsive web app that shows real-time weather data for any city, 
 
 ## 📷 Demo Preview
 
-![Weather Dashboard Screenshot](https://raw.gitbusercontent.com/viper8890/assets-or-project-images/main/preview.png)
+![Weather Dashboard Screenshot](https://raw.githubusercontent.com/viper8890/assets-or-project-images/main/preview.png)
 
 ---
 
